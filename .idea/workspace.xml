@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b441ac0-6836-405e-a438-2aaadbcb55a4" name="Default" comment="" />
+    <list default="true" id="8b441ac0-6836-405e-a438-2aaadbcb55a4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/babel-runtime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/buffer-shims" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/core-js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/core-util-is" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/inherits" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/isarray" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-runtime/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-client/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/ecmascript-runtime/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/email/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/es5-shim/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/kadira_flow-router/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/logging/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/meteor/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/modules-runtime/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/modules/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/mongo/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-bcrypt/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/promise/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/sacha_spin/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/process-nextick-args" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/readable-stream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/regenerator-runtime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/string_decoder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules/util-deprecate" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/app/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -37,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/app/imports/api/stuff/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/app/imports/api/stuff/stuff.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -138,50 +170,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="digits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stuff" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -326,11 +314,11 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="659" y="35" width="963" height="919" extended-state="0" />
-    <editor active="true" />
+    <frame x="659" y="35" width="963" height="919" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24922119" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24922119" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -367,7 +355,7 @@
     <entry file="file://$PROJECT_DIR$/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -375,7 +363,7 @@
     <entry file="file://$PROJECT_DIR$/app/imports/api/stuff/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -383,7 +371,7 @@
     <entry file="file://$PROJECT_DIR$/app/imports/api/stuff/stuff.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
